@@ -1,4 +1,4 @@
-/* Google fonts import */
+* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
 /* Asterisk wildcard selector to override default styles added by the browser */
@@ -17,6 +17,14 @@ body {
     color: #3a3a3a;
     font-family: 'Lato', sans-serif;
 }
+
+
+.dancing-script-<uniquifier> {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
 
 /* Header */
 header {
@@ -43,6 +51,11 @@ h1 {
     color: #252525;
 }
 
+h2,h3 {
+    font-family: "Dancing Script", cursive;
+    letter-spacing: 2px;
+    color: wheat;
+}
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
@@ -94,10 +107,23 @@ main {
 #hero {
  height: 600px; 
  width: 100%;
- background : url(../images/hero-image.jpg)
+ background : url(../images/hero-image.jpg) no-repeat center center/cover;
+ position: relative;
 }
  
+#cover-text {
+    background-color: rgba(241, 100, 107, .7);
+    font-size: 130%;
+    position: absolute;
+    bottom: 30px;
+    width: 80%;
+    min-height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+}
 
+#cover-text > h2, #cover-text > h3 { color:wheat;
+}
 
 
 
@@ -163,5 +189,10 @@ footer {
 @media screen and (min-width: 992px) {
     #menu a:hover{
         border-bottom: 1px solid #3a3a3a;
+    }
+
+    #cover-text {
+        width: 300px;
+        right: 50px;
     }
 }
