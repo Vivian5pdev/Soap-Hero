@@ -125,7 +125,26 @@ main {
 #cover-text > h2, #cover-text > h3 { color:wheat;
 }
 
+#cover-text {
+    width: 300px;
+    right: 50px;
+}
 
+#circle-cover-bg {
+    background: url('../images/reaasons.png') no-repeat top center/cover;
+    height: 90vw;
+    width: 90vw;
+    margin: 20px;
+    border-radius: 50%;
+    max-height: 300px;
+    max-width: 300px;
+}
+
+#benefits-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
  
 
@@ -191,8 +210,5 @@ footer {
         border-bottom: 1px solid #3a3a3a;
     }
 
-    #cover-text {
-        width: 300px;
-        right: 50px;
-    }
+   
 }
