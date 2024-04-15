@@ -95,7 +95,7 @@ nav {
     font-size: 2rem;
 }
 
-/* Main content */
+
 
 /* Main content */
 main {
@@ -145,7 +145,22 @@ main {
     align-items: center;
     justify-content: center;
 }
+  /*Reasons Section*/
+  #benefits-physical, #benefits-to-environment {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
 
+#benefits-physical >div, #benefits-to-environment >div {
+    width: 75%;
+    
+}
+
+#benefits-to-environment >div {
+    text-align: end;
+    align-self: end;
+}
  
 
 /* Footer */
@@ -205,10 +220,39 @@ footer {
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 992px) 
     #menu a:hover{
         border-bottom: 1px solid #3a3a3a;
     }
+    /* reasons section (laptops and desktops, 1200px and up) */
+@media screen and (min-width: 1200px) {
+    #benefits {
+        display: flex;
+        flex-direction: row;
+    }
 
-   
+    #benefits >div {
+        flex: 1;
+    }
+
+        #benefits-image {
+            order: 0;
+        }
+
+        #benefits-to-environment {
+            order: 1;
+        }
+
+            #benefits-to-environment {
+                order: 1;
+
+            }
+
+            #benefits-to-environment >div {
+                align-self: flex-start;
+            }
+
+            #benefits-physical > div {
+                align-self: flex-end;
+            }
 }
