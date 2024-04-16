@@ -202,6 +202,29 @@ main {
    
     
 }
+/*About us*/
+
+    #about {
+        background: url('../images/about-image.jpg') no-repeat top center/cover;
+        height: 90vw;
+        width: 90vw;
+        margin: 20px;
+        
+    }
+#about{
+    opacity 0.5
+}
+        
+    }
+   
+
+    div p{
+        font-family: cursive;
+        font-weight: bold;
+    }
+
+    
+    
 
 /* Form */
 #signup {
@@ -257,6 +280,7 @@ main {
 
 /*Gallery*/
 #photos img {
+   position: 100%;
     width: 100%;
     line-height: 1em;
 }
