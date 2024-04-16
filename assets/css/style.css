@@ -299,6 +299,8 @@ footer {
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
     /* Header */
+
+
     nav {
         display: block;
         position: relative;
@@ -325,7 +327,28 @@ footer {
         margin: 0 0.5rem;
     }
 
+ /* Form */
+    #signup {
+        background-position: center;
+        position: relative;
+    }
 
+    #signup-form {
+        max-width: 400px;
+        position: absolute;
+        left: 10%;
+        top: 150px;
+    }
+
+    .text-input:hover {
+        border-color: #f16c6b;
+    }
+
+    .join-button:hover {
+        background-color: #fafafa;
+        color: #454b1b;
+    }
+}
 
 
 
