@@ -194,18 +194,18 @@ main {
 /* Sign Up*/
 /* Main content */
 main {
-    /* Enlarge main element to push footer down*/
-    flex: 1 0 auto;
-    /* Add margin at the top to prevent content from being covered by the header */
-    margin-top: 47px;
-    /* Enable flex properties for child elements */
     display: flex;
     flex-direction: column;
+    flex: 1 0 auto;
+    margin-top: 100px;
+    
+   
+    
 }
 
 /* Form */
 #signup {
-    background-image: url("../images/signup-image.webp");
+    background-image: url("../images/signup-image.webp"); 
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
@@ -214,7 +214,7 @@ main {
 
 #signup-form {
     color: #ffffff;
-    background-color: rgba(60, 60, 60, 0.6);
+    background-color: rgba(170, 95, 10, 0.6);
     padding: 30px;
 }
 
@@ -248,14 +248,6 @@ main {
     background-color: #454b1b;
     color: #fafafa;
 }
-
-
-
-
-
-
-}
-
 
 
 
@@ -346,6 +338,29 @@ footer {
     #photos { 
             columns-count: 3; 
 }
+
+/* Form */
+#signup {
+    background-position: center;
+    position: relative;
+}
+
+#signup-form {
+    max-width: 400px;
+    position: absolute;
+    left: 10%;
+    top: 150px;
+}
+
+.text-input:hover {
+    border-color: #f16c6b;
+}
+
+.join-button:hover {
+    background-color: #fafafa;
+    color: #454b1b;
+}
+
 }
 
 
