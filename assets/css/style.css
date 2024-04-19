@@ -216,6 +216,9 @@ main {
     margin: 20px;
  }
 
+ #faq-section {
+    Overflow :hidden
+ }
 
 /* Sign Up*/
 /* Main content */
@@ -234,12 +237,7 @@ main {
     
   
  
-    
-  
-
-  
-
-/* Form */
+    /* Form */
 #signup {
     background-image: url("../images/signup-image.webp"); 
     background-size: cover;
