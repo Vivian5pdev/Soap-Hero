@@ -239,6 +239,10 @@ main {
     Overflow :hidden
  }
 
+ #faq {
+    column-count: 2;
+ }
+
 /* Sign Up*/
 /* Main content */
 main {
