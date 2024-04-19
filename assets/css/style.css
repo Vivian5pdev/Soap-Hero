@@ -1,3 +1,4 @@
+
 * Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
@@ -224,7 +225,14 @@ main {
     }
 
     
-    
+   /* FAQ*/
+   
+   #faq {
+   height: 600px; 
+   width: 100%;
+   background : url(../images/faq-image.jpg) no-repeat center center/cover;
+   position: relative;
+  }
 
 /* Form */
 #signup {
