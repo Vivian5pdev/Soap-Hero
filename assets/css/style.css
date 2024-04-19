@@ -192,32 +192,39 @@ main {
 
 }
 
+
+/*About us*/
+
+#about{
+    background: url('../images/about-image.jpg') no-repeat top center/cover;
+    height: 90vw;
+    width: 90vw;
+    margin: 20px;
+}   
+
+#about{
+    opacity 0.5
+}
+ 
+
+
+ /* FAQ*/
+ #faq{
+    background: url('../images/faq-image.jpg') no-repeat top center/cover;
+    height: 90vw;
+    width: 100vw;
+    margin: 20px;
+ }
+
+
 /* Sign Up*/
 /* Main content */
 main {
     display: flex;
     flex-direction: column;
     flex: 1 0 auto;
-    margin-top: 100px;
-    
-   
-    
+    margin-top: 100px;   
 }
-/*About us*/
-
-    #about {
-        background: url('../images/about-image.jpg') no-repeat top center/cover;
-        height: 90vw;
-        width: 90vw;
-        margin: 20px;
-        
-    }
-#about{
-    opacity 0.5
-}
-        
-    }
-   
 
     div p{
         font-family: cursive;
@@ -225,14 +232,12 @@ main {
     }
 
     
-   /* FAQ*/
-   
-   #faq {
-   height: 600px; 
-   width: 100%;
-   background : url(../images/faq-image.jpg) no-repeat center center/cover;
-   position: relative;
-  }
+  
+ 
+    
+  
+
+  
 
 /* Form */
 #signup {
