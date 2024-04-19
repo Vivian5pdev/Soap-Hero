@@ -198,7 +198,7 @@ main {
 #about{
     background: url('../images/about-image.jpg') no-repeat top center/cover;
     height: 90vw;
-    width: 90vw;
+    width: 100%;
     margin: 20px;
 }   
 
@@ -296,6 +296,7 @@ main {
    position: 100%;
     width: 100%;
     line-height: 1em;
+    padding: 100px;
 }
 
 #photos {
@@ -312,6 +313,7 @@ footer {
         display: flex;
         justify-content: space-evenly;
         list-style-type: none;
+        
         
 }
 
