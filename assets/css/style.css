@@ -20,10 +20,9 @@ body {
 }
 
 
-.dancing-script-<uniquifier> {
+.dancing-script {
     font-family: "Dancing Script", cursive;
     font-optical-sizing: auto;
-    font-weight: <weight>;
     font-style: normal;
   }
 
@@ -58,12 +57,7 @@ h2,h3 {
     color: green;
     font-weight: bolder;
 
-    h4 {
-     font-family: cursive;
-    letter-spacing: 2px;
-    color: crimson;
-    font-weight: bolder;
-    }
+    
 }
 #menu {
     font-size: 110%;
@@ -96,18 +90,19 @@ a:visited {
     color: yellow;
   }
     
-}
+
 
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
     background-color: #ffffff;
     width: 100%;
+    height: 56dp;
     left: 0;
     padding: 0 1rem;
     box-shadow: 0 2px 2px #3a3a3a;
     display: none;
-    top: 100%;
+  
 }
 
 /* Nav toggle */
@@ -132,12 +127,15 @@ main {
  margin-top: 47px;
 }
 
+
+
 #hero {
  height: 600px; 
  width: 100%;
  background : url(../images/hero-image.jpg) no-repeat center center/cover;
- position: relative;
+ position:100%;
 }
+
  
 #cover-text {
     background-color: rgba(241, 100, 107, .7);
@@ -167,14 +165,17 @@ main {
     border-radius: 50%;
     max-height: 300px;
     max-width: 300px;
+    
+    
 }
 
 #benefits-image {
     display: flex;
     justify-content: center;
     align-items: center;
-    
-}
+ }
+
+
   /*Reasons Section*/
   #benefits-physical, #benefits-to-environment {
     display: flex;
@@ -206,11 +207,7 @@ main {
     flex-basis: 200px;
     flex-grow: 1;
     justify-content: space-evenly;
-   /* create a grid of white space between;*/
-      border: 2px solid black;
-
-
-}
+   }
 
 
 /*About us*/
@@ -220,34 +217,39 @@ main {
     height: 90vw;
     width: 100%;
     margin: 0px;
-    
+    opacity: 0.5;
+ }   
 
-    
-}   
 
-#about p {
-    font-family: cursive;
-    font-weight: bold;
-    margin-left: 70px;
+#about > p {
+    
+    font-family: "Dancing Script", cursive;
+    color: black;
+    padding: 15%;
+    align-items: normal;
+    position: 100%;
+     
+     
 }
+
+
  
 
 
  /* FAQ*/
  #faq{
     background: url('../images/faq-image.jpg') no-repeat top center/cover;
-    height: 90vw;
-    width: 100vw;
-    margin: 20px;
- }
+    height: 70vw;
+    width: 100%;
+    margin: 0px;
+  }
 
  #faq-section {
-    Overflow :hidden
+    Overflow :hidden;
+    text-align: center;
  }
 
- #faq {
-    column-count: 2;
- }
+ 
 
 /* Sign Up*/
 /* Main content */
@@ -264,9 +266,9 @@ main {
         font-weight: bold;
         margin: 50px 75px;
         padding-left: 50;
-        padding-right: 750;
-        text-align: end;
-        align-self: end;
+        padding-right: 70;
+        text-align: left;
+        align-self: center;
     }
 
     

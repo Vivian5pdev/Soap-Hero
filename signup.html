@@ -52,21 +52,24 @@
             <label for="last-name">Last Name</label>
             <input type="text" name="last_name" id="last-name" class="text-input" required>
             <br>
-            <label for="email-address">Email Address</label>
-            <input type="email" name="email_address" id="email-address" class="text-input" required>
-            <br>
-            <div class="radio-buttons">
+            <div>
+                <label for="email">Email</label>
+                <input type="text" name="email" id="email" class="text-input" required>
+            </div>
+            
                 <div>
                     <label for="samples-by-post">Samples by Post</label>
-                    <input type="radio" name="samples-by-post" id="samples-by-post" value="samples-by-post" required checked>
-                </div>
-                <div>
+                    <input type="radio" name="choose-post?" id="samples-by-post" value="samples-by-post" />
+                
+               
+                
                     <label for="attend-events">Attend Events</label>
-                    <input type="radio" name="attend-events" id="attend-events" value="attend-events" required>
-                </div>
-                <div>
+                    <input type="radio" name="choose-events?" id="attend-events" value="attend-events" />
+                
+                
+                
                     <label for="both">Both</label>
-                    <input type="radio" name="both" id="both" value="both" required>
+                    <input type="radio" name="choose-both?" id="both" value="both" />
                 </div>
             </div>
             <button type="submit" class="join-button">Send me Samples!</button>
