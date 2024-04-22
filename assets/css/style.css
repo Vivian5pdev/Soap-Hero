@@ -219,8 +219,8 @@ main {
     background: url('../images/about-image.jpg') no-repeat top center/cover;
     height: 90vw;
     width: 100%;
-    margin: 10px;
-    font-family: cursive;
+    margin: 0px;
+    
 
     
 }   
