@@ -55,11 +55,11 @@ h1 {
 h2,h3 {
     font-family: "Dancing Script", cursive;
     letter-spacing: 2px;
-    color: wheat;
+    color: green;
     font-weight: bolder;
 
     h4 {
-     font-family: "Dancing Script", cursive;
+     font-family: cursive;
     letter-spacing: 2px;
     color: crimson;
     font-weight: bolder;
@@ -198,10 +198,11 @@ main {
    background-color: rgba(0,0,0,.6);
    font-weight: bold;
     background: url('../images/soapbox.jpg') no-repeat center/cover;
+    opacity: 0.4;
     display: flex;
     flex-wrap: wrap;
     padding: 15px;
-    text-align: left;
+    text-align: center;
     flex-basis: 200px;
     flex-grow: 1;
     justify-content: space-evenly;
@@ -218,11 +219,16 @@ main {
     background: url('../images/about-image.jpg') no-repeat top center/cover;
     height: 90vw;
     width: 100%;
-    margin: 20px;
+    margin: 10px;
+    font-family: cursive;
+
+    
 }   
 
-#about{
-    opacity 0.5
+#about p {
+    font-family: cursive;
+    font-weight: bold;
+    margin-left: 70px;
 }
  
 
@@ -253,8 +259,14 @@ main {
 }
 
     div p{
-        font-family: cursive;
+       display: flex;
+       font-style:inherit ;
         font-weight: bold;
+        margin: 50px 75px;
+        padding-left: 50;
+        padding-right: 750;
+        text-align: end;
+        align-self: end;
     }
 
     
