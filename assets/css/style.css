@@ -37,11 +37,13 @@ header {
     display: inline-flex;
     justify-content: space-between;
     align-items: baseline;
+    margin-top: 0;
 }
 
 header a {
     text-decoration: none;
     color: inherit;
+   
 }
 
 h1 {
@@ -49,6 +51,7 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #252525;
+    
 }
 
 h2,h3 {
@@ -56,9 +59,9 @@ h2,h3 {
     letter-spacing: 2px;
     color: green;
     font-weight: bolder;
-
-    
 }
+
+
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
@@ -135,6 +138,11 @@ main {
  background : url(../images/hero-image.jpg) no-repeat center center/cover;
  position:100%;
 }
+
+body {
+    padding: 0;
+    margin: 0;
+  }
 
  
 #cover-text {
@@ -329,6 +337,15 @@ main {
 
 
 /*Gallery*/
+#gallery-header {
+    background-color: wheat;
+/* background: url(assets/images/bunch-for-gallery.jpg) no-repeat top center/cover; */
+height: 10vw;
+width: 100%;
+margin: 0px;
+opacity: 0.5;
+}   
+
 #photos img {
     width: 100%;
     line-height: 1em;
