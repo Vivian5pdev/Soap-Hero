@@ -97,7 +97,7 @@ nav {
     position: absolute;
     background-color: #ffffff;
     width: 100%;
-    height: 56dp;
+    height: 46dp;
     left: 0;
     padding: 0 1rem;
     box-shadow: 0 2px 2px #3a3a3a;
@@ -217,7 +217,7 @@ main {
     height: 90vw;
     width: 100%;
     margin: 0px;
-    opacity: 0.5;
+    opacity: 1;
  }   
 
 
@@ -338,6 +338,11 @@ main {
     line-height: 0;
 }
 
+#gallery {
+    display :flex;
+    position: 1;
+    justify-content: flex-start;
+}
  
 
 /* Footer */
@@ -369,7 +374,7 @@ footer {
            column-gap: 0; 
 
 }
-}
+
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
     /* Header */
