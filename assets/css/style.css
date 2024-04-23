@@ -327,12 +327,11 @@ main {
 
 
 
+
 /*Gallery*/
 #photos img {
-   position: 100%;
     width: 100%;
     line-height: 1em;
-    padding: 100px;
 }
 
 #photos {
@@ -367,7 +366,7 @@ footer {
 @media screen and (min-width: 576px) {
 
 #photos { column-count: 2;
-           columns-gap: 0; 
+           column-gap: 0; 
 
 }
 }
@@ -434,7 +433,8 @@ footer {
     }
 
     #photos { 
-        column-count: 3;  
+        column-count: 3; 
+        column-gap: 0; 
 }
 
 /* Form */
@@ -466,7 +466,8 @@ footer {
 @media screen and (min-width: 992px) 
    
 #photos { 
-       column-count: 4;
+    column-count: 4; 
+    column-gap: 0; 
 } 
 
 #menu a:hover{
