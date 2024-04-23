@@ -149,7 +149,7 @@ main {
 #cover-text {
     background-color: rgba(241, 100, 107, .7);
     font-size: 130%;
-    position: absolute;
+    position: sticky;
     bottom: 30px;
     width: 80%;
     min-height: 200px;
@@ -180,7 +180,6 @@ body {
     border-radius: 50%;
     max-height: 300px;
     max-width: 300px;
-    
     
 }
 
@@ -243,8 +242,7 @@ body {
     padding: 15%;
     align-items: normal;
     position: 100%;
-     
-     
+       
 }
 
 
