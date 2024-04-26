@@ -200,3 +200,44 @@ Finally, my call to action page, Sign up for free soap.  It is hoped that everyt
 That is my website.
 
 I had a lot of pictures to add but due to time constraint may not add them all.
+
+# Testing:
+
+## Performance test: lighthouse score
+performance 95% accessibility 97% SEO 100% BEST PRACTICE 96%.  pdf WILL BE SUBMITED
+
+## Responsive tests (am i responsive website)
+Viewports
+Desktop
+1600x992px scaled down to scale(0.3181)
+Laptop
+1280x802px scaled down to scale(0.277)
+Tablet
+768x1024px scaled down to scale(0.219)
+Mobile
+320x480px scaled down to scale(0.219)
+A note on the viewports
+
+## Browsers
+I tested the webpages on Chrome, Google, Duckduck, firefox and safari
+
+### Navigation works as expected no issues on all browsers
+
+### Responsive
+I confirm that the project is responsive and looks good on all screen sizes.  Ami responsive gave a printout.  will attach.
+
+### form
+Form is easy to understand and fill, from my observation of my test users.  It verifies the email input. It returns a friendly acknowledgement.  I have screenshots.
+
+### Validator testing
+The validation has 1 error: Error: The element a must not appear as a descendant of the button element.
+But I decided to live with it. Because I intentionally coded it that way.
+
+### Deployment
+The site is deployed to GitHub.
+You can do the same by going to Github repository Soap-Hero
+Go to Settings, from there, to Source.
+Then select from the drop-down menu Main branch.
+save.
+
+link: ### Link: Link: https://vivian5pdev.github.io/soaphero/index.html
