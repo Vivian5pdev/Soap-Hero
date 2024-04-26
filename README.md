@@ -115,24 +115,31 @@ Fonts –  Font Awesome, fontawesome.com
 Favicons - https://clipart-library.com/soap.html
 Signup form : https://formdump.codeinstitute.net">
 Images – Goole pictures, details specified below:
-o   Hero image:
-o   About us image:
-o   FAQ image:
-o   FAQ Video- 
-o   Sign up image
+o   Hero image: Clipart library free soap; Emmie Koreman, Pinterest
+o   About us image:How stuff works, the science behind soap-making.
+o   FAQ image: Freepik.  Assorted food on wooden table
+o   FAQ Video- youtube. https://youtu.be/rlklQAC40g0?si=u0H7mXb-mWEdGWOi
+o   Sign up image: by Soak yourself luxury handmade soaps, https://www.soakyourself.co.uk/
 o   Gallery images:
-   Soap logs by Jasandjul soaps
+   Rasberry soap, ebay.co.uk 
+Soap logs by Jasandjul soaps
    Slice-o-soap by i.pinimg.com
    Abs (African black soap) by life balance
    Cupcake by nectar usa
+sunflower soap by Yaya, Etsy.  https://www.etsy.com/shop/SweetSkinofMineShop
+Blue soap.  by Etsy seller, Perman man artisan soap, ShabbyheartSkincare
+Coffee soap in mock bath, by Gingers garden, https://www.gingersgarden.com/handmade-natural-artisan-soaps-with-essential-oils-or-fragrance/handmade-artisan-soap-carrot-castile-coffee-goatmilk/coffee-handmade-artisan-soap-detail
+
+Soap by Nerdy farm wife. soapandrestless.blogspot.com
+sweet rose soap by Debby Howard-Richards.  handmadeinflorida.blogspot.com
    Giant pink Cupcake soap by Norfolk bath and body
+"Oriental looking soap" - by Lexica.  https://lexica.art/prompt/5b6770ca-ad29-4c3d-8c18-be0e9b66c703
+Strawbery and cream soaps -handwash picture -Ebay.co.uk, Antex24 Germany -https://www.ebay.co.uk/itm/315183837717?itmmeta=01HWDP3X7TZBYQV2CJW01W0ZRR&hash=item49626bb215:g:oTEAAOSwWo1l3x-r&itmprp=enc%3AAQAJAAAA4NF15HGo%2F8muCt5KmUK7TZ7yaj%2FGokbXPVYt756CjUDe5azBPkIyduaPxcitZxnpZEqEbeMz7zDeh9nTaUfSskvl%2FgBtSHuSEormgVHWCtMiWxcT0%2FtPmQPuz2OsbmRKWsDgV%2BmWJ3R9jzdIG%2B3nkyMJfF%2BibnHyNElJkZTcM1bue%2Bq5inCsBFwM9qEOGHNQcYLYbZvPNIi4aPDeQUC0E%2BL6ZDPn73b9sIl3FFiI%2BGMI20DTUSp47%2FPar927oiZkdH1JtRMmAAcwEmoWN1Ig%2B1VLnlpVCnjqSY3LO8MDhtoO%7Ctkp%3ABFBM_tOPtuNj
+handwash picture -Ebay.co.uk, Antex24 Germany -https://www.ebay.co.uk/itm/315183837717?itmmeta=01HWDP3X7TZBYQV2CJW01W0ZRR&hash=item49626bb215:g:oTEAAOSwWo1l3x-r&itmprp=enc%3AAQAJAAAA4NF15HGo%2F8muCt5KmUK7TZ7yaj%2FGokbXPVYt756CjUDe5azBPkIyduaPxcitZxnpZEqEbeMz7zDeh9nTaUfSskvl%2FgBtSHuSEormgVHWCtMiWxcT0%2FtPmQPuz2OsbmRKWsDgV%2BmWJ3R9jzdIG%2B3nkyMJfF%2BibnHyNElJkZTcM1bue%2Bq5inCsBFwM9qEOGHNQcYLYbZvPNIi4aPDeQUC0E%2BL6ZDPn73b9sIl3FFiI%2BGMI20DTUSp47%2FPar927oiZkdH1JtRMmAAcwEmoWN1Ig%2B1VLnlpVCnjqSY3LO8MDhtoO%7Ctkp%3ABFBM_tOPtuNj
    
 •   Code source – skeleton :Love running, Bug fixes: Stack Overflow; W3C
 •   Text content research – riverdancesoapworks.com; The US Statistics and Facts Statista-states (ULTA)
-•   Video: YouTube - 
-•   Link to relevant site.
-•   Authors name/ pseudonym
-•   Link to actual content.
+
 
 ### How it all started/Inspiration
 It started with a definite topic, Soaps.  I wanted to make a good case for this humble everyday household product, then showcase the benefits and differences of Natural and regular soaps.
