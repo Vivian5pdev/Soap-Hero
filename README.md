@@ -204,7 +204,7 @@ I had a lot of pictures to add but due to time constraint may not add them all.
 # Testing:
 
 ## Performance test: lighthouse score
-performance 95% accessibility 97% SEO 100% BEST PRACTICE 96%.  pdf WILL BE SUBMITED
+performance 99% accessibility 97% SEO 100% BEST PRACTICE 100%.  pdf/screenshot is available for inspection.
 
 ## Responsive tests (am i responsive website)
 Viewports
