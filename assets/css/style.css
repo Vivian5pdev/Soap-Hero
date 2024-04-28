@@ -149,7 +149,7 @@ main {
 #cover-text {
     background-color: rgba(241, 100, 107, .7);
     font-size: 130%;
-    position: sticky;
+    position: absolute;
     bottom: 30px;
     width: 80%;
     min-height: 200px;
