@@ -243,3 +243,4 @@ save.
 link: ### Link: Link: https://vivian5pdev.github.io/soaphero/index.html
 
 LIGHTHUSE TESTE: PERFOMACE 99% SEO 99% ACESSIBILITY 97% BEST PRACTICE 100% -Sreenshots taken and full report is available.
+OUTSTANDING WORK: embedding images and screenshots to readme.  However, i created a folder in images folder in assets, called Readme supporting images and added neccesary images in there.
