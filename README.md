@@ -241,3 +241,5 @@ Then select from the drop-down menu Main branch.
 save.
 
 link: ### Link: Link: https://vivian5pdev.github.io/soaphero/index.html
+
+LIGHTHUSE TESTE: PERFOMACE 99% SEO 99% ACESSIBILITY 97% BEST PRACTICE 100% -Sreenshots taken and full report is available.
